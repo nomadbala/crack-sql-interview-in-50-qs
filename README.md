@@ -21,7 +21,7 @@ git clone https://github.com/nomadbala/crack-sql-interview-in-50-qs
 3. Read Explanations: For a detailed understanding of each solution, refer to the corresponding markdown file in the explanations/ directory.
 4. Practice: Use the solutions as a reference to practice and improve your SQL skills.
    
-### Contributing
+### Contributing <a name="contributing"></a>
 Contributions are welcome! If you have improvements or additional solutions to share, please follow these steps:
 
 1. Fork the repository.
@@ -29,11 +29,11 @@ Contributions are welcome! If you have improvements or additional solutions to s
 3. Make your changes and commit them with clear and concise messages.
 4. Push your changes to your fork.
 5. Open a pull request to merge your changes into this repository.
-6. 
-License
+
+### License <a name="license"></a>
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+### Contact <a name="contact"></a>
 If you have any questions, suggestions, or feedback, feel free to contact me:
 
 GitHub: nomadbala<br>

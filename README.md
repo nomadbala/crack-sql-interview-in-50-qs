@@ -36,6 +36,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Contact
 If you have any questions, suggestions, or feedback, feel free to contact me:
 
-GitHub: nomadbala
-Email: devsayat01@gmail.com
+GitHub: nomadbala<br>
+Email: devsayat01@gmail.com<br>
 Happy coding and good luck with your SQL interview preparation!

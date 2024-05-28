@@ -15,7 +15,7 @@ This repository contains my solutions to the 50 SQL questions from LeetCode's "C
 ### How to Use This Repository <a name="how_to_use_this_repository"></a>
 1. Clone the Repository: Clone this repository to your local machine using:
 ```
-git clone https://github.com/nomadbala/crack-sql-interview-in-50-qs
+git clone https://github.com/nomadbala/crack-sql-interview-in-50-qs.git
 ```
 2. Browse Solutions: Navigate to the solutions/ directory to find the SQL scripts for each problem.
 3. Read Explanations: For a detailed understanding of each solution, refer to the corresponding markdown file in the explanations/ directory.

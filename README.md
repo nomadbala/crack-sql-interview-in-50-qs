@@ -1,4 +1,4 @@
-# LeetCode Crack SQL Interview in 50 Qs - Solutions
+# `LeetCode Crack SQL Interview in 50 Qs - Solutions`
 
 ## Welcome to my GitHub repository, where I publish my solutions for the LeetCode Crack SQL Interview in 50 Questions study plan. This repository is intended to help those preparing for SQL interviews by providing clear and well-documented solutions to common SQL problems.
 
